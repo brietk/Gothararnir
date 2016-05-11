@@ -3,6 +3,8 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using Mooshak2_Hopur5.Models.Entities;
+using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace Mooshak2_Hopur5.Models
 {
